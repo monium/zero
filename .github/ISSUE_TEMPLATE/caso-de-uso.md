@@ -1,16 +1,16 @@
 ---
-name: Caso de uso
-about: Diferentes formas como se va a usar el proyecto desde otros programas
-title: "[HU] "
+name: Use Case
+about: Different ways of using the project from other programs
+title: "[User Story] "
 labels: enhancement
 assignees: ''
 
 ---
 
-## Descripción de alto nivel
+## Description
 
-*Como un **rol** necesito una **característica** para poder hacer **describir qué se soluciona con eso** *
+*As **rol** I need **a feature** to be able to do... **describe what is solved with that** *
 
-## Dado/Y/Entonces/Cuando
+## given / and / then / when
 
-Describir las diferentes posibilidades en diferentes escenarios.
+Describe the different possibilities in different settings.
