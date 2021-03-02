@@ -28,7 +28,7 @@ For Data Management we'll use MONGODB or a no relational database
 | ------------- |:-------------:|
 | Daniel Alcaraz    | [AferriDaniel](https://github.com/AferriDaniel) |
 | Eleazar Morales     | [Axaryk](https://github.com/axaryk)|
-
+| Luis Leon     | [luisleon1894](https://github.com/luisleon1894)|
 
 
 
