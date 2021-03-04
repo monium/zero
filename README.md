@@ -3,14 +3,12 @@
 
 ## Description of the problem to solve
 
-In may applications like twitter, github there are rate limits which prevent sending new requests after a threshold is reached out.
-Through queue management, Zero will work as a traffic light avoiding banning actions.
+There are many influencers who day need to  have a Media Kit; a summary of your ability to generate interesting content for potential customers for different brands. 
+This project preten to automatize the process of summarize these information in a easy-to-use interface, through friendly reports and KPI's
 
-## Log services
-
+## Log service
 Loggin module from python
 https://docs.python.org/3/howto/logging.html
-
 Kibana for graphical purposes(?
 https://www.elastic.co/guide/en/kibana/current/get-started.html
 
