@@ -6,6 +6,13 @@
 There are many influencers who day need to  have a Media Kit; a summary of your ability to generate interesting content for potential customers for different brands. 
 This project preten to automatize the process of summarize these information in a easy-to-use interface, through friendly reports and KPI's
 
+## Solución
+Nuestra herramienta provee de ciertas estadísticas automatizadas que ayudan a conocer la comunidad de sus diferentes redes sociales.
+
+## Herramientas
+Se hará uso de la API de twitter entre otras para leer información relevante a la cuenta y cruzar datos.
+
+
 ## Log service
 Loggin module from python
 https://docs.python.org/3/howto/logging.html
