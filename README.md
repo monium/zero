@@ -8,10 +8,16 @@ This project preten to automatize the process of summarize these information in 
 
 ## Solución
 Nuestra herramienta provee de ciertas estadísticas automatizadas que ayudan a conocer la comunidad de sus diferentes redes sociales.
+Este proyecto será el core que provee de una API a la que diferentes aplicaciones clientes conectarán para explotar la potencia que la herramienta provee.
 
 ## Herramientas
 Se hará uso de la API de twitter entre otras para leer información relevante a la cuenta y cruzar datos.
 
+[FastAPI](https://fastapi.tiangolo.com/)
+[PonyORM](https://ponyorm.org/)
+[MongoEngine](http://docs.mongoengine.org/)
+[Celery](https://docs.celeryproject.org/en/stable/)
+[RabbitMQ](https://www.rabbitmq.com/)
 
 ## Log service
 Loggin module from python
