@@ -2,4 +2,6 @@ personas:
   - Amadeo Saboya Lamoto
   - Jane Doe
   - Ibai Llanos
-  
+
+excepciones:
+  - src/twitter/twitter.py
